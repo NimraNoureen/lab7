@@ -7,7 +7,8 @@ class Program
     {
         // Creating a list of household items
         List<string> householdItems = new List<string>
-        {   "Blender"
+
+        {   "beater"
             "Refrigerator",
             "Microwave",
             "Washing Machine",
